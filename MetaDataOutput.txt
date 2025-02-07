@@ -1,0 +1,4 @@
+Image MetaData Output: {'Filename': 'image2.jpg', 'Image Size': (2048, 1365), 'Image Height': 1365, 'Image Width': 2048, 'Image Format': 'JPEG', 'Image Mode': 'RGB', 'Image is Animated': False, 'Frames in Image': 1} 
+ {33432: 'Copyright (c) Nasim Mansurov'} 
+ Copyright (c) Nasim Mansurov 
+
